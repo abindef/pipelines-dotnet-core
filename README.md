@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/abindef0134/DevOpsTest/_apis/build/status/abindef.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/abindef0134/DevOpsTest/_build/latest?definitionId=2&branchName=master)
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
@@ -5,7 +6,7 @@ For more information on building .NET Core applications, see [.NET Core](https:/
 
 # Contributing
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
+This project welcomes contributions and suggestions.  Most contributions require you to [![Build Status](https://dev.azure.com/abindef0134/DevOpsTest/_apis/build/status/abindef.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/abindef0134/DevOpsTest/_build/latest?definitionId=2&branchName=master)agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
 the rights to use your contribution. For details, visit https://cla.microsoft.com.
 
